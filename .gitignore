@@ -1,0 +1,5 @@
+*.pyc
+
+build/
+dist/
+qrcode_cli.egg-info/
