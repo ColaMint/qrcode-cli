@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='qrcode_cli',
     version='0.1',
-    url='https://github.com/lincolnloop/python-qrcode',
+    url='https://github.com/Everley1993/qrcode-cli',
     description='QR Code shell generator',
     license='MIT',
     author='Everley',
